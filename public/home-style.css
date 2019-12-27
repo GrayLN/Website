@@ -1,0 +1,31 @@
+  /* CSS files add styling rules to your content */
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+#background1 {
+  background-size: 1920px 1080px;
+}
+#background2 {
+  background-size: 1920px 1200.247px;
+}
+
+.jameson {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 800px;
+}
+
+#introduction {
+font-size: 30px;
+}
+.insta {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
