@@ -1,3 +1,9 @@
 .one {
 font-size: 18px;
 }
+.insta {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
